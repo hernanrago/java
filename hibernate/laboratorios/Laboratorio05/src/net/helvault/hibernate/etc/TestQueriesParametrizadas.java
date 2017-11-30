@@ -8,7 +8,8 @@ import org.hibernate.Session;
 
 /**
  *
- * @author hernan
+ * @author
+ * r hernan
  */
 public class TestQueriesParametrizadas {
     

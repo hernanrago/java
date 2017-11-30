@@ -1,7 +1,6 @@
 package net.helvault.hibernate.sessionmanager;
 
 import java.util.Properties;
-import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 import org.hibernate.cfg.Configuration;
@@ -46,13 +45,13 @@ public class SessionManager {
        
         properties.put("hibernate.connection.driver_class", "com.mysql.jdbc.Driver");
 
-        properties.put("hibernate.connection.url", "jdbc:mysql://localhost/hibernate_laboratorios");
+        properties.put("hibernate.connection.url", "jdbc:mysql://localhost/hibernate");
 
         properties.put("hibernate.connection.username", "root");
 
-        properties.put("hibernate.connection.password", "admin");
+        properties.put("hibernate.connection.password", "admin123");
 
-        properties.put("hibernate.dialect", "org.hibernate.dialect.MySQLDialect");
+        properties.put("hibernate.dialect", "org.hibernate.dialect.MariaDBDialect");
         
         properties.put("hibernate.show_sql", "true");
         
