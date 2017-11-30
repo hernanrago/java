@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="cl453021">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hibernate/cl45302/hibernate_clase02b.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hibernate/cl45302/hibernate_clase02c.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hibernate/cl45302/hibernate_clase02.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
