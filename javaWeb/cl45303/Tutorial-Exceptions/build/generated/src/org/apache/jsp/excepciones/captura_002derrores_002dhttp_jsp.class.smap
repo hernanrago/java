@@ -1,0 +1,11 @@
+SMAP
+captura_002derrores_002dhttp_jsp.java
+JSP
+*S JSP
+*F
++ 0 captura-errores-http.jsp
+excepciones/captura-errores-http.jsp
+*L
+1,4:48
+4,23:51
+*E

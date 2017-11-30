@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/educacionIT/09-Proyecto-JSTL-ConceptosGenerales">
+  <Logger className="org.apache.catalina.logger.FileLogger" prefix="3S." suffix=".log" timestamp="true"/>
+</Context>

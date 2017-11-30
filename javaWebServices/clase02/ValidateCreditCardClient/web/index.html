@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Validación de tarjeta de crédito</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h1>Validación de tarjeta de crédito</h1>
+        <h2>Ingrese su tipo y número tarjeta, por favor</h2>
+        <form action="IniciarSesion" method="post">
+            <select name="tipo">
+                <option>Seleccione su tipo de tarjeta</option>
+                <option value="AMEX">AMEX</option>
+                <option value="MASTERCARD">MASTERCARD</option>
+                <option value="DINERS">DINERS</option>
+                <option value="VISA">VISA</option>
+            </select>
+            <br/>
+            <input type="text" name="numero" placeholder="Ingrese el número de su tarjeta"/>
+            <br/>
+            <input type="submit" value="Enviar"/>
+        </form>   
+    </body>
+</html>

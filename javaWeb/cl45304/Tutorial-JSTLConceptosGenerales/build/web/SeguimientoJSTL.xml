@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   :  SeguimientoJSTL.xml
+    Author     : Sebastián S. Sanga
+    Description:
+        Detallar la utilización de tags de JSTL
+-->
+
+<root>
+    <Ejemplo_01>
+        <Nombre>c_out.jsp</Nombre>
+        <Descripcion>Utilización del tag out</Descripcion>
+    </Ejemplo_01>
+    <Ejemplo_02>
+        <Nombre>c_set.jsp</Nombre>
+        <Descripcion>Utilización del tag set</Descripcion>
+    </Ejemplo_02>
+    <Ejemplo_03>
+        <Nombre>c_if.jsp</Nombre>
+        <Descripcion>Utilización del tag if</Descripcion>
+    </Ejemplo_03>
+    <Ejemplo_04>
+        <Nombre>c_choose.jsp</Nombre>
+        <Descripcion>Utilización del tag choose</Descripcion>
+    </Ejemplo_04>    
+    <Ejemplo_05>
+        <Nombre>c_forEach.jsp</Nombre>
+        <Descripcion>Utilización del tag forEach</Descripcion>
+    </Ejemplo_05>
+    <Ejemplo_06>
+        <Nombre>fmt_formatDate.jsp</Nombre>
+        <Descripcion>Utilización del tag formatDate</Descripcion>
+    </Ejemplo_06>  
+    <Ejemplo_07>
+        <Nombre>param.jsp</Nombre>
+        <Descripcion>Utilización del valor 'param'</Descripcion>
+    </Ejemplo_07>    
+</root>

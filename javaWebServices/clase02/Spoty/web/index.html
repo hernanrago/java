@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Bienvenido a Spoty</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h1>Bienvenido a Spoty</h1>
+        <h2>Haga click para iniciar sesión</h2>
+        <!--
+            verificar si hay token
+            enviarlo al servidor SSO y validar sesion
+            si no existe mostrar formulario de login
+        -->
+        
+        <a href="IniciarSesion?token=123">Iniciar Sesión</a>
+        <form action="IniciarSesion" method="post">
+            <input name="email" type="email" placeholder="nombre@mail.com" />
+            <br />
+            <input name="password" type="password" placeholder="**********" />
+            <br />
+            <input type="submit" value="Iniciar sesión">
+        </form>
+    </body>
+</html>

@@ -1,0 +1,64 @@
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title></title>
+        <link rel="stylesheet" href="css/indexcss.css">
+        <script type="text/javascript" src="js/libs/jquery/jquery.js"></script>
+    </head>
+
+    <body>
+
+        <h2>Tabla coloreada</h2>
+
+        <table>
+            <tr>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Edad</th>
+                <th>Hijos</th>
+
+            </tr>
+            <tr>
+                <td>Peter</td>
+                <td>Griffin</td>
+                <td>50</td>
+                <td><input type="text" name="hijos" class="hijo" id="hijo1"/></td>
+
+            </tr>
+            <tr>
+                <td>Lois</td>
+                <td>Griffin</td>
+                <td>40</td>
+                <td><input type="text" name="hijos" class="hijo" id="hijo2"/></td>
+            </tr>
+            <tr>
+                <td>Joe</td>
+                <td>Swanson</td>
+                <td>45</td>
+                <td><input type="text" name="hijos" id="hijo.3"/></td>
+            </tr>
+            <tr>
+                <td>Cleveland</td>
+                <td>Brown</td>
+                <td>50</td>
+                <td><input type="text" name="hijos" id="hijo.4"/></td>
+                <td><input type="button" value="Enviar" id="boton"/></td>
+            </tr>
+
+        </table>
+        
+        <script type="text/javascript">
+            $(document).ready(function(){
+                $("#boton").click(function(){
+                    $("#boton").css('background','red');
+                    alert($("#hijo1").val());
+                });
+            });
+        </script>
+
+
+    </body>
+
+
+</html>
+
