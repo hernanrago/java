@@ -1,6 +1,5 @@
 package net.helvault.hibernate.main;
 
-import net.helvault.hibernate.entities.Auto;
 import net.helvault.hibernate.sessionmanager.SessionManager;
 import org.hibernate.HibernateException;
 import org.hibernate.Session;

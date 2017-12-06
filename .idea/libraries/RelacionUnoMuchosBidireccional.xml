@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RelacionUnoMuchosBidireccional">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hibernate/RelacionUnoMuchosBidireccional/dist/RelacionUnoMuchosBidireccional.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

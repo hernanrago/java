@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Laboratorio03">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hibernate/laboratorios/Laboratorio03/dist/Laboratorio03.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

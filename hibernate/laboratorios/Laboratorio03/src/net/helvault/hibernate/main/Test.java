@@ -2,8 +2,7 @@ package net.helvault.hibernate.main;
 
 import java.sql.Date;
 import java.util.List;
-import net.helvault.hibernate.entities.Auto;
-import net.helvault.hibernate.entities.Concesionario;
+
 import net.helvault.hibernate.sessionmanager.SessionManager;
 import org.hibernate.HibernateException;
 import org.hibernate.Session;

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CountryDetailsWSConsumer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javaWebServices/CountryDetailsWSConsumer/dist/CountryDetailsWSConsumer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

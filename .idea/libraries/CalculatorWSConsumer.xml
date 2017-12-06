@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CalculatorWSConsumer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javaWebServices/CalculatorWSConsumer/dist/CalculatorWSConsumer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

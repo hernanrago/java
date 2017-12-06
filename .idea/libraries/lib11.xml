@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javaWeb/cl45304/Tutorial-JSTLConceptosGenerales/build/web/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaWeb/cl45304/Tutorial-JSTLConceptosGenerales/build/web/WEB-INF/lib/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaWeb/cl45304/Tutorial-JSTLConceptosGenerales/build/web/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaWeb/cl45304/Tutorial-JSTLConceptosGenerales/build/web/WEB-INF/lib/jstl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

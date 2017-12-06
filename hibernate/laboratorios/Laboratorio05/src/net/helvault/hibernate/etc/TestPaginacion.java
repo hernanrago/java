@@ -1,7 +1,7 @@
 package net.helvault.hibernate.etc;
 
 import java.util.List;
-import net.helvault.hibernate.entities.Auto;
+
 import org.hibernate.Query;
 import org.hibernate.Session;
 

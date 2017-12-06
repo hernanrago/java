@@ -1,7 +1,7 @@
 package net.helvault.hibernate.main;
 
 import java.util.List;
-import net.helvault.hibernate.entities.Concesionario;
+
 import net.helvault.hibernate.sessionmanager.SessionManager;
 import org.hibernate.SessionFactory;
 

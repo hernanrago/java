@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HibernateExample/HibernateExample.iml" filepath="$PROJECT_DIR$/HibernateExample/HibernateExample.iml" group="hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate/adictosaltrabajo/adictosaltrabajo.iml" filepath="$PROJECT_DIR$/hibernate/adictosaltrabajo/adictosaltrabajo.iml" group="hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate/cl45301/cl45301.iml" filepath="$PROJECT_DIR$/hibernate/cl45301/cl45301.iml" group="hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate/cl45302/cl45302.iml" filepath="$PROJECT_DIR$/hibernate/cl45302/cl45302.iml" group="hibernate" />
+    </modules>
+  </component>
+</project>
