@@ -72,9 +72,8 @@ public class HibernateUtil {
             props.put("hibernate.connection.username", "root");
             props.put("hibernate.connection.password", "admin123");
             props.put("hibernate.current_session_context_class", "thread");
-            props.put("hibernate.dialect", "org.hibernate.dialect.MySQLDialect");
             props.put("hibernate.show_sql", "true");
-            props.put("hibernate.hbm2ddl.auto","update");
+            props.put("hibernate.hbm2ddl.auto","create");
 
 
             configuration.setProperties(props);

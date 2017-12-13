@@ -8,7 +8,7 @@ import java.sql.Date;
 public class Auto {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.SEQUENCE)
+    @GeneratedValue(strategy = GenerationType.AUTO)
     private long id;
     private int anoModelo;
     private Date fechaVenta;
@@ -83,7 +83,7 @@ public class Auto {
                 ", fecha de venta=" + fechaVenta +
                 ", marca='" + marca + '\'' +
                 ", modelo='" + modelo + '\'' +
-                ", precio=" + precio +
+                ", precio=U$S" + precio +
                 '}';
     }
 }
